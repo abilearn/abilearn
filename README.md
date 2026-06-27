@@ -37,8 +37,7 @@
 
 
 ## 📫 Reach Me
-- LinkedIn: *Add your LinkedIn profile*
-- Email: *Add your email*
+- LinkedIn: www.linkedin.com/in/abirami-sritharan-567b2b23
 
 ## ⚡ Fun Fact
 I enjoy turning complex backend systems into clean, scalable solutions—and now I'm learning how to build beautiful user interfaces to match them!

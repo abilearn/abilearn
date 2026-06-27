@@ -1,12 +1,44 @@
-- 👋 Hi, I’m @abilearn
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning UI
-- 💞️ I’m looking to collaborate on FrontEnd Development
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Abirami (@abilearn)
 
-<!---
-abilearn/abilearn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👩‍💻 About Me
+- 💼 Backend Developer with 9+ years of experience building scalable enterprise applications using Java, Spring Boot, Microservices, and AWS.
+- 🚀 Currently expanding my skills in Frontend Development with React, JavaScript, HTML, and CSS to become a stronger Full-Stack Developer.
+- 🌱 Learning modern UI development, responsive design, and frontend best practices.
+- 👯 Looking to collaborate on Full-Stack, Backend, and Open Source projects.
+- 🤖 Interested in AI-powered applications, Cloud Technologies, and Software Architecture.
+- 📚 Always learning and exploring new technologies.
+
+## 🛠️ Tech Stack
+**Backend**
+- Java
+- Spring Boot
+- Spring Cloud
+- Microservices
+- REST APIs
+- Hibernate/JPA
+
+**Frontend (Learning)**
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+
+**Cloud & DevOps**
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+
+## 📫 Reach Me
+- LinkedIn: *Add your LinkedIn profile*
+- Email: *Add your email*
+
+## ⚡ Fun Fact
+I enjoy turning complex backend systems into clean, scalable solutions—and now I'm learning how to build beautiful user interfaces to match them!
